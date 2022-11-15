@@ -2,6 +2,6 @@ LIVRO DE RECEITAS 👨‍🍳
 
 Olá! Bem vindo ao meu livro de receitas 👋
 
-STROGONOFF DE FRANGO
-
-PAVÊ
+- Strogonoff de frango
+- Pavê
+- Bolo de Cenoura
